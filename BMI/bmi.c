@@ -1,4 +1,4 @@
-#include "stdio.h"
+#include <stdio.h>
 
 /**
  * developing a program in C that calcute the BMI of the patients.
